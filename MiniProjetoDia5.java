@@ -78,7 +78,7 @@ public class MiniProjetoDia5 {
 
             case 4: System.out.println("Saindo do sistema. Obrigado por usar!");
                     break;
-                
+        
         
             default: System.out.println("erro, algo inesperado aconteceu, tente novamente!");
                 break;
