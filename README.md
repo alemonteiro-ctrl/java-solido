@@ -1,17 +1,16 @@
 # Java Sólido
 
 ## Descrição
-Exercícios práticos de Java desenvolvidos durante o método de estudo, semana a semana.
+Repositório com exercícios práticos de Java focados em fundamentos e orientação a objetos.
+Os projetos evoluem progressivamente, simulando problemas reais e reforçando boas práticas.
 
-## Semana 1 — Fundamentos
-- Dia 1: Tipos, variáveis, operadores, entrada/saída
-- Dia 2: Condicionais e loops
-- Dia 3: Métodos (parâmetros, retorno, sobrecarga)
-- Dia 4: Arrays e ArrayList
-- Dia 5: Mini projeto — sistema de cadastro de alunos
+## Objetivo
+Consolidar a base em Java e desenvolver lógica de programação com código limpo e organizado.
 
-## Semana 2 — OOP
-- Dia 1: Classes, objetos, construtores
+## Como executar
+1. Clone o repositório
+2. Compile os arquivos `.java`
+3. Execute a classe principal de cada exercícios
 
 ## Tecnologias
 - Java
